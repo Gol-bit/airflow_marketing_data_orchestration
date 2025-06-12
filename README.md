@@ -1,6 +1,6 @@
 # airflow_marketing_data_orchestration
 
-# Data Pipeline Project
+# Marketing Data Pipeline Project (Airflow, Python, PostgreSQL, Google BQ)
 
 This repository contains a collection of Python scripts and Airflow DAGs that automate data ingestion, processing, and aggregation for gaming app analytics. All pipelines run on Airflow, secrets are securely stored in Airflow Variables, raw data lands in PostgreSQL, and aggregated metrics are pushed to Google BigQuery for reporting and visualization in Looker.
 
