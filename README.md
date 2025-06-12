@@ -25,7 +25,7 @@ your-project/
 
 ```
 
-## 🚀 How It Works
+## How It Works
 
 1. **Airflow as Orchestrator**
 
@@ -51,7 +51,7 @@ your-project/
    * BigQuery stores aggregated datasets for analysis.
    * Looker dashboards consume BigQuery for real‑time insights.
 
-## 🔒 Secrets and Config
+## Secrets and Config
 
 * **Airflow Variables** store:
 
@@ -59,7 +59,7 @@ your-project/
   * `postgresql_secret` for Postgres connection string
 * No credentials are kept in the repository.
 
-## 📈 Technologies
+## Technologies
 
 * **Apache Airflow** for orchestration
 * **SQLAlchemy** for Postgres connectivity
